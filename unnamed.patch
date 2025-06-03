@@ -1,0 +1,17 @@
+Index: demo/src/main/resources/templates/masini.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/demo/src/main/resources/templates/masini.html b/demo/src/main/resources/templates/masini.html
+--- a/demo/src/main/resources/templates/masini.html	
++++ b/demo/src/main/resources/templates/masini.html	(date 1748588752070)
+@@ -145,7 +145,7 @@
+         </div>
+     </form>
+ </div>
+-     
++
+ 
+ <script>
+     function confirmareStergere()
